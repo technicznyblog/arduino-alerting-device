@@ -1,4 +1,4 @@
 # Arduino alerting device
 
-Described at http://techniczny.wordpress.com
+Described at https://blog-techniczny.pl
 
